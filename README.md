@@ -8,4 +8,5 @@ We can create new files, edit existing files, change font sizes, colors of text,
 
 ## Skills used:
 Java,OOPs,Swing (Java).
+<br>
 ![This is an the screenshot taken while running the Java Application](./Screenshot.png)
