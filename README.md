@@ -1,3 +1,9 @@
 # Basic-TextEditor-with-java
-### It supports basic functionalities of TextEditor of opening, saving the files. It is made using java Swing for GUI.
+
+To develop an application similar to notepad, which has similar functionalities.
+
+At first, I have created GUI and then added functionalities to GUI using Action Listeners.
+
+We can create new files, edit existing files, change font sizes, colors of text, font-wrap etc.
+
 ![This is an the screenshot taken while running the Java Application](./Screenshot.png)
